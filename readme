@@ -1,0 +1,33 @@
+Task 1: Iris Flower Classification
+Classify iris flowers into three species—Setosa, Versicolor, Virginica—based on petal and sepal measurements.
+- 📊 Dataset: Scikit-learn Iris Dataset
+- 🔍 Models: SVM, KNN, Logistic Regression
+- 📈 Metrics: Accuracy, Confusion Matrix
+- 📁 Output: Trained model and evaluation report
+
+📉 Task 2: Unemployment Analysis with Python
+Visualize unemployment trends across Indian states, especially during the COVID-19 period.
+- 📊 Dataset: CSV with regional unemployment rates
+- 🛠️ Tools: Pandas, Seaborn, Matplotlib
+- 📈 Output: Line plots comparing states over time
+
+🚗 Task 3: Car Price Prediction
+Predict car prices based on features like brand, horsepower, mileage, and more.
+- 📊 Dataset: Car listings with multiple features
+- 🔍 Model: Linear Regression
+- 🧪 Preprocessing: Encoding, scaling
+- 📈 Output: Predicted prices and model performance
+
+📬 Task 4: Email Spam Detection with Machine Learning
+Build a spam filter using NLP and machine learning to classify emails as spam or ham.
+- 📊 Dataset: spam.csv with labeled messages
+- 🧹 Preprocessing: Text cleaning, TF-IDF vectorization
+- 🔍 Model: Multinomial Naive Bayes
+- 📈 Output: Accuracy, classification report, confusion matrix
+
+📦 Task 5: Sales Prediction Using Python
+Predict future product sales based on advertising spend, target segment, and platform.
+- 📊 Dataset: Advertising and sales data
+- 🔍 Model: Linear Regression
+- 📈 Output: Predicted sales and insights for marketing strategy
+
